@@ -1,6 +1,6 @@
 # Hey, my name is Mykhailo! 👋
 
-### I’m a software engineer. I build products in TypeScript.
+### I’m a software engineer. I build products with TypeScript.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mykhailo-yarovenko-087b95170/).
 
