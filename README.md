@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hey, my name is Mykhailo! 👋
+
+### I’m a software engineer. I build products in TypeScript.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mykhailo-yarovenko-087b95170/).
+
 
 <!--
 **yarychh/yarychh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
