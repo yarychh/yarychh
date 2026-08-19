@@ -2,7 +2,7 @@
 
 ### I’m a software engineer. I build products with TypeScript.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mykhailo-yarovenko-087b95170/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mykhailo-yarovenko). 
 
 
 <!--
